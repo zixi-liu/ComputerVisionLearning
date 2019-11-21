@@ -12,3 +12,11 @@ https://nbviewer.jupyter.org/github/zixi-liu/ComputerVisionLearning/blob/master/
 This is a practice on the Google AI Dataset using imageai. (resnet50)
 
 https://nbviewer.jupyter.org/github/zixi-liu/CV-ObjectDetection/blob/master/GOOGLE_NEW.ipynb
+
+**1.3 Kuzushiji Recognition using Neural Network**
+
+This is same idea with MNIST dataset digit recognition.
+
+https://nbviewer.jupyter.org/github/zixi-liu/ComputerVisionLearning/blob/master/JapaneseCharacterDetection.ipynb
+
+
