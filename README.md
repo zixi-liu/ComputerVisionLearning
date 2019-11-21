@@ -2,12 +2,12 @@
 This is a set of learning notes I used to learn computer vision algorithms.
 
 
-**Introduction to torchvision**
+**1.1 Introduction to torchvision**
 
 
 https://nbviewer.jupyter.org/github/zixi-liu/ComputerVisionLearning/blob/master/Intro_to_torchvision.ipynb
 
-**Resnet50 using keras and Google AI Dataset**
+**1.2 Resnet50 using keras and Google AI Dataset**
 
 This is a practice on the Google AI Dataset using imageai. (resnet50)
 
