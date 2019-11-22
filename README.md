@@ -19,4 +19,6 @@ This is same idea with MNIST dataset digit recognition.
 
 https://nbviewer.jupyter.org/github/zixi-liu/ComputerVisionLearning/blob/master/JapaneseCharacterDetection.ipynb
 
+**1.4 Autonomous Driving using Center-Resnet**
 
+https://nbviewer.jupyter.org/github/zixi-liu/ComputerVisionLearning/blob/master/Baidu.ipynb
